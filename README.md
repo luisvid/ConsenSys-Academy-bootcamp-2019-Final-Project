@@ -2,7 +2,7 @@
 # Online Marketplace DApp
 
 An Online Marketplace that operates on the blockchain.
-Final Project for the ConsenSys Academy 2018 Developer Bootcamp
+Final Project for the ConsenSys Academy 2019 Developer Bootcamp
 
 The central marketplace is managed by a group of administrators. Admins allow store owners to add stores to the marketplace. Store owners can manage their store’s inventory and funds. Shoppers can visit stores and purchase goods that are in stock using cryptocurrency.
 
