@@ -77,10 +77,7 @@ There are 5 tests each for the `Marketplace.sol` and `Store.sol` contracts.
 
 ## Rinkeby Deployment
 
-Contract Address: 0x101f87dd51440c52d82ed0f279b1b53c97aa5b64
+Marketplace Contract Address: `0xBE27b8ef03dbf49F08cDD2C3cB489c863aDFF2f8`
 
-Ehterscan transaction: https://rinkeby.etherscan.io/tx/0x32ee43a14832cafd34f945fe5117c86d91de29434f96e16b96d0816be6d2483f
-
-
-This project has been deployed on the Rinkeby network. The address for the Marketplace contract is ` 0x0753B9e6f5304a8539345F97424DDe886D3294D8`. You can also check its activity on Etherscan: https://rinkeby.etherscan.io/address/0x0753b9e6f5304a8539345f97424dde886d3294d8
+Ehterscan transaction: https://rinkeby.etherscan.io/tx/0x9cf17515bfc43dbf59b162e31d0dbe071ee0029e9e655d74938085dd42fce26e
 
