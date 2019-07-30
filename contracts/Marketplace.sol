@@ -10,6 +10,7 @@ import "./Store.sol";
  * @dev The Marketplace contract determines which addresses are the admins and the store owners.
  * It is also allows store owners to open a store using an external function from the Store contract.
  * Using a store owners address it can determine the stores that the store owner is in charge of
+ * @author Luis Videla
  */
 contract Marketplace is Ownable, Pausable {
     mapping(address => bool) public admins;

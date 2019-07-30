@@ -8,6 +8,7 @@ import "./Marketplace.sol";
 /**
  * @title Store
  * @dev The Store contract contains the information and functions to manage the store.
+ * @author Luis Videla
  */
 contract Store is Ownable {
 
