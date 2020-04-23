@@ -1,3 +1,4 @@
+[![built-with openzeppelin](https://img.shields.io/badge/built%20with-OpenZeppelin-3677FF)](https://docs.openzeppelin.com/)
 
 # Online Marketplace DApp
 
@@ -81,4 +82,3 @@ Marketplace Contract Address: `0xBE27b8ef03dbf49F08cDD2C3cB489c863aDFF2f8`
 
 Ehterscan transaction: https://rinkeby.etherscan.io/tx/0x9cf17515bfc43dbf59b162e31d0dbe071ee0029e9e655d74938085dd42fce26e
 
-[![built-with openzeppelin](https://img.shields.io/badge/built%20with-OpenZeppelin-3677FF)](https://docs.openzeppelin.com/)
